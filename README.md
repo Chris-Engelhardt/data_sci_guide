@@ -1,5 +1,4 @@
 # Repo Purpose
------
 
 Welcome to your community-sourced data science repo! The overarching goal here is to provide anyone interested in learning data science with a wealth of open source, industry-best learning materials and learning tracks.
 
