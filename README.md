@@ -20,7 +20,7 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Nonlinear Modeling in R with GAMs Course](https://github.com/noamross/datacamp-sexual-assault)
 
-[R Package Development Course]((https://kbroman.org/pkg_primer/)
+[R Package Development Course](https://kbroman.org/pkg_primer/)
 
 * Also see the [`usethis`](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) documentation
 
