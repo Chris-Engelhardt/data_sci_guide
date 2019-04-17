@@ -18,33 +18,37 @@ This repo is motivated by recent incidents. The data science community deserves 
 
 Many instructors have admirably [advocated against taking their own DataCamp courses](https://twitter.com/noamross/status/1116667602741485571). Often, these instructors have suggested other ways in which learners can access the same material. The suggested replacements for their courses are listed below:
 
-[Nonlinear Modeling in R with GAMs Course](https://github.com/noamross/gam-resources)
+### R Courses
 
-[Introduction to R Course](https://rstudio.cloud/learn/primers)
+[Introduction to R](https://rstudio.cloud/learn/primers)
 
-[Writing Functions in R Course](https://r4ds.had.co.nz/functions.html)
+[Writing Functions in R](https://r4ds.had.co.nz/functions.html)
 
 * Next, [learn about iteration](https://r4ds.had.co.nz/iteration.html)
 
-[R Package Development Course](https://kbroman.org/pkg_primer/)
+[Building Processing Pipelines in `data.table`](https://github.com/jameslamb/teaching/tree/master/datacamp_audition)
+
+[Developing R Packages](https://kbroman.org/pkg_primer/)
 
 * Also see the [`usethis`](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) documentation
 
-[Text Mining with R Course](https://www.tidytextmining.com/)
+[Text Mining with R](https://www.tidytextmining.com/)
 
 * Also see the associated [blogs](https://juliasilge.com/blog/) and [tutorials](https://github.com/juliasilge/deming2018)
 
-[Bayesian Regression Modeling in R Course](https://mc-stan.org/rstanarm/articles/index.html)
+[Building Dashboards with `shinydashboard`](https://leanpub.com/c/shinydashboard)
+
+[Bayesian Regression Modeling with `rstanarm`](https://mc-stan.org/rstanarm/articles/index.html)
 
 * Also see a [walkthrough article](http://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf) and a [practical example](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
 
-[Bokeh for Data Visualization Course](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
+[Nonlinear Modeling in R with GAMs](https://github.com/noamross/gam-resources)
 
-[`data.table` Course](https://github.com/jameslamb/teaching/tree/master/datacamp_audition)
+[Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
 
-[Geocomputation with R Course](https://geocompr.robinlovelace.net)  
+### Python Courses
 
-[Dynamic Dashboards with the `shinydashboard` Package Course](https://leanpub.com/c/shinydashboard)
+[Interactive Data Visualization with Bokeh](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
 [Advanced NLP with spaCy](https://course.spacy.io/)
 
