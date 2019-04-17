@@ -22,6 +22,10 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Introduction to R Course](https://rstudio.cloud/learn/primers)
 
+[Writing Functions in R Course](https://r4ds.had.co.nz/functions.html)
+
+* Next, [learn about iteration](https://r4ds.had.co.nz/iteration.html)
+
 [R Package Development Course](https://kbroman.org/pkg_primer/)
 
 * Also see the [`usethis`](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) documentation
