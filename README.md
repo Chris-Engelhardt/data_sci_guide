@@ -46,6 +46,12 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
 
+* Also see [RStudio's `Leaflet` tutorials](https://rstudio.github.io/leaflet/) for web mapping specifically  
+
+[`Caret`](https://topepo.github.io/caret/index.html) and [`mlr`](https://mlr.mlr-org.com/) Meta-Packages for predictive modeling / Machine Learning 
+
+[R interface to `Keras`](https://keras.rstudio.com/)
+
 ### Python Courses
 
 [Interactive Data Visualization with Bokeh](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
