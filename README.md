@@ -30,6 +30,10 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see the [`usethis`](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) documentation
 
+[Text Mining with R Course](https://www.tidytextmining.com/)
+
+* Also see the associated [blogs](https://juliasilge.com/blog/) and [tutorials](https://github.com/juliasilge/deming2018)
+
 [Bokeh for Data Visualization Course](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
 [`data.table` Course](https://github.com/jameslamb/teaching/tree/master/datacamp_audition)
