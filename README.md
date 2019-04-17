@@ -18,7 +18,7 @@ This repo is motivated by recent incidents. The data science community deserves 
 
 Many instructors have admirably [advocated against taking their own DataCamp courses](https://twitter.com/noamross/status/1116667602741485571). Often, these instructors have suggested other ways in which learners can access the same material. The suggested replacements for their courses are listed below:
 
-[Nonlinear Modeling in R with GAMs Course](https://github.com/noamross/datacamp-sexual-assault)
+[Nonlinear Modeling in R with GAMs Course](https://github.com/noamross/gam-resources)
 
 [Introduction to R Course](https://rstudio.cloud/learn/primers)
 
