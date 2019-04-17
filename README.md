@@ -46,6 +46,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Dynamic Dashboards with the `shinydashboard` Package Course](https://leanpub.com/c/shinydashboard)
 
+[Advanced NLP with spaCy](https://course.spacy.io/)
+
 ## Contributing
 
 > Ways to contribute forthcoming. 
