@@ -34,6 +34,10 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see the associated [blogs](https://juliasilge.com/blog/) and [tutorials](https://github.com/juliasilge/deming2018)
 
+[Bayesian Regression Modeling in R Course](https://mc-stan.org/rstanarm/articles/index.html)
+
+* Also see a [walkthrough article](http://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf) and a [practical example](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
+
 [Bokeh for Data Visualization Course](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
 [`data.table` Course](https://github.com/jameslamb/teaching/tree/master/datacamp_audition)
