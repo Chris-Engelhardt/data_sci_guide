@@ -46,9 +46,14 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
 
-* Also see [RStudio's `Leaflet` tutorials](https://rstudio.github.io/leaflet/) for web mapping specifically  
+[Interactive Maps with `leaflet` in R](https://rstudio.github.io/leaflet/)  
 
-[`Caret`](https://topepo.github.io/caret/index.html) and [`mlr`](https://mlr.mlr-org.com/) Meta-Packages for predictive modeling / Machine Learning 
+Hyperparameter Tuning in R
+* [`Caret`](http://topepo.github.io/caret/model-training-and-tuning.html#model-training-and-parameter-tuning)
+* [`mlr`](https://mlr.mlr-org.com/articles/tutorial/tune.html)
+* [`h2o`](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html)
+
+[Machine Learning Toolbox](http://topepo.github.io/caret/index.html)
 
 [R interface to `Keras`](https://keras.rstudio.com/)
 
