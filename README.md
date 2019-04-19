@@ -38,19 +38,43 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Building Dashboards with `shinydashboard`](https://leanpub.com/c/shinydashboard)
 
+[Marketing Analytics in R: Choice Modeling](http://r-marketing.r-forge.r-project.org/) 
+
+* Please see Chapter 13
+
+[Introduction to Machine Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
+
+[Machine Learning Toolbox](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
+
+[Differential Expression Analysis in R with limma](https://jdblischak.github.io/dc-bioc-limma/)
+
 [Bayesian Regression Modeling with `rstanarm`](https://mc-stan.org/rstanarm/articles/index.html)
 
 * Also see a [walkthrough article](http://www.tqmp.org/RegularArticles/vol14-2/p099/p099.pdf) and a [practical example](https://mc-stan.org/users/documentation/case-studies/tutorial_rstanarm.html)
+
+[Forecasting Using R](https://otexts.com/fpp2/)
 
 [Nonlinear Modeling in R with GAMs](https://github.com/noamross/gam-resources)
 
 [Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
 
+[Exploratory Data Analysis](https://classroom.udacity.com/courses/ud651)
+
+[Sentiment Analysis in R](https://www.tidytextmining.com/)
+
+[Sentiment Analysis in R: The Tidy Way](https://www.tidytextmining.com/)
+
+[Introduction to Shell for Data Science](https://librarycarpentry.org/lc-shell/  http://swcarpentry.github.io/shell-novice/)
+
 ### Python Courses
+
+[Introduction to Python](Introduction to Python)
 
 [Interactive Data Visualization with Bokeh](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
 [Advanced NLP with spaCy](https://course.spacy.io/)
+
+[Intermediate Python for Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
 
 ## Contributing
 
