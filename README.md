@@ -46,6 +46,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Introduction to Machine Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
 
+[Unsupervised Learning in R](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
+
 [Machine Learning Toolbox](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
 
 [Differential Expression Analysis in R with limma](https://jdblischak.github.io/dc-bioc-limma/)
