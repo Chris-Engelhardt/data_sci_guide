@@ -68,7 +68,7 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 ### Python Courses
 
-[Introduction to Python](Introduction to Python)
+[Introduction to Python](https://classroom.udacity.com/courses/ud170)
 
 [Interactive Data Visualization with Bokeh](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
