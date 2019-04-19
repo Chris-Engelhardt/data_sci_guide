@@ -64,6 +64,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
 
+[Working with Dates and Times in R](https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code)
+
 [Interactive Maps with `leaflet` in R](https://rstudio.github.io/leaflet/)  
 
 [Hyperparameter Tuning in R](http://topepo.github.io/caret/model-training-and-tuning.html#model-training-and-parameter-tuning)
@@ -75,9 +77,9 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Sentiment Analysis in R: The Tidy Way](https://www.tidytextmining.com/)
 
-[Introduction to Shell for Data Science](https://librarycarpentry.org/lc-shell/)
+[Introduction to Shell for Data Science](http://swcarpentry.github.io/shell-novice/)
 
-* Also see the [Software Carpentry materials](http://swcarpentry.github.io/shell-novice/)
+* Also see the [Library Carpentry materials](https://librarycarpentry.org/lc-shell/)
 
 [Spreadsheet Basics](https://datacarpentry.org/spreadsheets-socialsci/)
 
@@ -90,6 +92,12 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 [Interactive Data Visualization with Bokeh](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
 [Advanced NLP with spaCy](https://course.spacy.io/)
+
+### Git Courses
+
+[Introduction to Git for Data Science](https://git-scm.com/book/en/v2)
+
+* Also see [git branching](https://learngitbranching.js.org/)
 
 ## Contributing
 
