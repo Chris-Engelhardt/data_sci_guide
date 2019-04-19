@@ -68,7 +68,7 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see the [Software Carpentry materials](http://swcarpentry.github.io/shell-novice/)
 
-{Spreadsheet Basics](https://datacarpentry.org/spreadsheets-socialsci/)
+[Spreadsheet Basics](https://datacarpentry.org/spreadsheets-socialsci/)
 
 ### Python Courses
 
