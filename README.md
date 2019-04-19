@@ -76,7 +76,7 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Advanced NLP with spaCy](https://course.spacy.io/)
 
-[Intermediate Python for Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
+[Intermediate Python for Data Science](https://classroom.udacity.com/courses/ud359)
 
 ## Contributing
 
