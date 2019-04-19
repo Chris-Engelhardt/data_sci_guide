@@ -55,8 +55,6 @@ Hyperparameter Tuning in R
 
 [Machine Learning Toolbox](http://topepo.github.io/caret/index.html)
 
-[R interface to `Keras`](https://keras.rstudio.com/)
-
 ### Python Courses
 
 [Interactive Data Visualization with Bokeh](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
