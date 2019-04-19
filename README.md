@@ -14,7 +14,7 @@ This repo is motivated by recent incidents. The data science community deserves 
 * [Chromebook Data Science](http://jhudatascience.org/chromebookdatascience/cbds.html)
 * [Business Science University](https://university.business-science.io/p/jumpstart-with-r)
 
-## Course Replacements
+## Direct Course Replacements
 
 Many instructors have admirably [advocated against taking their own DataCamp courses](https://twitter.com/noamross/status/1116667602741485571). Often, these instructors have suggested other ways in which learners can access the same material. The suggested replacements for their courses are listed below:
 
