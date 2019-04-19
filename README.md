@@ -50,6 +50,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Machine Learning Toolbox](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
 
+* Also see a book on the [`caret` package](http://topepo.github.io/caret/index.html)
+
 [Differential Expression Analysis in R with limma](https://jdblischak.github.io/dc-bioc-limma/)
 
 [Bayesian Regression Modeling with `rstanarm`](https://mc-stan.org/rstanarm/articles/index.html)
@@ -61,6 +63,11 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 [Nonlinear Modeling in R with GAMs](https://github.com/noamross/gam-resources)
 
 [Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
+
+[Interactive Maps with `leaflet` in R](https://rstudio.github.io/leaflet/)  
+
+[Hyperparameter Tuning in R](http://topepo.github.io/caret/model-training-and-tuning.html#model-training-and-parameter-tuning)
+* Also see the [`mlr` package docs](https://mlr.mlr-org.com/articles/tutorial/tune.html) and [the `h2o` package docs](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html)
 
 [Exploratory Data Analysis](https://classroom.udacity.com/courses/ud651)
 
