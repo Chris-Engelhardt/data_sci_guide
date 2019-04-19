@@ -38,6 +38,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Building Dashboards with `shinydashboard`](https://leanpub.com/c/shinydashboard)
 
+[Foundations of Inference](https://www.coursera.org/learn/inferential-statistics-intro?specialization=statistics
+
 [Marketing Analytics in R: Choice Modeling](http://r-marketing.r-forge.r-project.org/) 
 
 * Please see Chapter 13
