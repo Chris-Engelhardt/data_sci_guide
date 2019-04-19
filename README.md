@@ -64,7 +64,9 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Sentiment Analysis in R: The Tidy Way](https://www.tidytextmining.com/)
 
-[Introduction to Shell for Data Science](https://librarycarpentry.org/lc-shell/  http://swcarpentry.github.io/shell-novice/)
+[Introduction to Shell for Data Science](https://librarycarpentry.org/lc-shell/)
+
+* Also see the [Software Carpentry materials](http://swcarpentry.github.io/shell-novice/)
 
 ### Python Courses
 
