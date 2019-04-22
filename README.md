@@ -22,7 +22,7 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Introduction to R](https://rstudio.cloud/learn/primers)
 
-* Also see [here](http://swcarpentry.github.io/r-novice-inflammation/]
+* Also see [here](http://swcarpentry.github.io/r-novice-inflammation/)
 
 [Intermediate R](https://www.dataquest.io/course/intermediate-r-programming/)
 
