@@ -20,15 +20,15 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 ### R Courses
 
-[Working with the RStudio IDE (Part 1)](https://resources.rstudio.com/)
-
-[Working with the RStudio IDE (Part 2)](https://resources.rstudio.com/)
-
 [Introduction to R](https://rstudio.cloud/learn/primers)
 
 * Also see [here](http://swcarpentry.github.io/r-novice-inflammation/]
 
 [Intermediate R](https://www.dataquest.io/course/intermediate-r-programming/)
+
+[Working with the RStudio IDE (Part 1)](https://resources.rstudio.com/)
+
+[Working with the RStudio IDE (Part 2)](https://resources.rstudio.com/)
 
 [Writing Functions in R](https://r4ds.had.co.nz/functions.html)
 
@@ -105,11 +105,11 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Intro to SQL for Data Science](https://www.khanacademy.org/computing/computer-programming/sql)
 
-* Also see [here](https://www.dataquest.io/course/sql-fundamentals/) **requires subscription**
+* Also see [here](https://www.dataquest.io/course/sql-fundamentals/) (**requires subscription**)
 
 [Joining Data in SQL](https://librarycarpentry.org/lc-sql/)
 
-* Also see [here](https://www.dataquest.io/course/sql-joins-relations/) **requires subscription**
+* Also see [here](https://www.dataquest.io/course/sql-joins-relations/) (**requires subscription**)
 
 ### Git Courses
 
@@ -125,7 +125,7 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see [here](http://swcarpentry.github.io/shell-novice/)
 
-* Also see [here](https://www.dataquest.io/course/command-line-beginner/) **requires subscription**
+* Also see [here](https://www.dataquest.io/course/command-line-beginner/) (**requires subscription**)
 
 ### Spreadsheet Courses
 
