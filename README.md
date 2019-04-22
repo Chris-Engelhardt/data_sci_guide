@@ -20,7 +20,15 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 ### R Courses
 
+[Working with the RStudio IDE (Part 1)](https://resources.rstudio.com/)
+
+[Working with the RStudio IDE (Part 2)](https://resources.rstudio.com/)
+
 [Introduction to R](https://rstudio.cloud/learn/primers)
+
+* Also see [here](http://swcarpentry.github.io/r-novice-inflammation/]
+
+[Intermediate R](https://www.dataquest.io/course/intermediate-r-programming/)
 
 [Writing Functions in R](https://r4ds.had.co.nz/functions.html)
 
@@ -68,6 +76,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Interactive Maps with `leaflet` in R](https://rstudio.github.io/leaflet/)  
 
+[Building Web Applications in R with Shiny](https://laderast.github.io/gradual_shiny/)
+
 [Hyperparameter Tuning in R](http://topepo.github.io/caret/model-training-and-tuning.html#model-training-and-parameter-tuning)
 * Also see the [`mlr` package docs](https://mlr.mlr-org.com/articles/tutorial/tune.html) and [the `h2o` package docs](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html)
 
@@ -77,15 +87,13 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Sentiment Analysis in R: The Tidy Way](https://www.tidytextmining.com/)
 
-[Introduction to Shell for Data Science](http://swcarpentry.github.io/shell-novice/)
-
-* Also see the [Library Carpentry materials](https://librarycarpentry.org/lc-shell/)
-
-[Spreadsheet Basics](https://datacarpentry.org/spreadsheets-socialsci/)
-
 ### Python Courses
 
 [Introduction to Python](https://classroom.udacity.com/courses/ud170)
+
+* Also see [here](http://swcarpentry.github.io/python-novice-inflammation/)
+
+[Introduction to Data Science in Python](https://www.dataquest.io/course/python-for-data-science-fundamentals/)
 
 [Intermediate Python for Data Science](https://classroom.udacity.com/courses/ud359)
 
@@ -93,11 +101,35 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Advanced NLP with spaCy](https://course.spacy.io/)
 
+### SQL Courses
+
+[Intro to SQL for Data Science](https://www.khanacademy.org/computing/computer-programming/sql)
+
+* Also see [here](https://www.dataquest.io/course/sql-fundamentals/) **requires subscription**
+
+[Joining Data in SQL](https://librarycarpentry.org/lc-sql/)
+
+* Also see [here](https://www.dataquest.io/course/sql-joins-relations/) **requires subscription**
+
 ### Git Courses
 
 [Introduction to Git for Data Science](https://git-scm.com/book/en/v2)
 
+* Also see [here](https://librarycarpentry.org/lc-git/)
+
 * Also see [git branching](https://learngitbranching.js.org/)
+
+### Shell Courses
+
+[Introduction to Shell for Data Science](https://librarycarpentry.org/lc-shell/)
+
+* Also see [here](http://swcarpentry.github.io/shell-novice/)
+
+* Also see [here](https://www.dataquest.io/course/command-line-beginner/) **requires subscription**
+
+### Spreadsheet Courses
+
+[Spreadsheet Basics](https://datacarpentry.org/spreadsheets-socialsci/)
 
 ## Contributing
 
