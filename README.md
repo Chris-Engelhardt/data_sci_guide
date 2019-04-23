@@ -30,6 +30,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Working with the RStudio IDE (Part 2)](https://resources.rstudio.com/)
 
+[Working with Dates and Times in R](https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code)
+
 [Writing Functions in R](https://r4ds.had.co.nz/functions.html)
 
 * Next, [learn about iteration](https://r4ds.had.co.nz/iteration.html)
@@ -63,8 +65,6 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 [Marketing Analytics in R: Choice Modeling](http://r-marketing.r-forge.r-project.org/) 
 
 * Please see Chapter 13
-
-[Working with Dates and Times in R](https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code)
 
 [Hyperparameter Tuning in R](http://topepo.github.io/caret/model-training-and-tuning.html#model-training-and-parameter-tuning)
 * Also see the [`mlr` package docs](https://mlr.mlr-org.com/articles/tutorial/tune.html) and [the `h2o` package docs](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html)
