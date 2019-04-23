@@ -40,17 +40,7 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see the [`usethis`](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) documentation
 
-[Text Mining with R](https://www.tidytextmining.com/)
-
-* Also see the associated [blogs](https://juliasilge.com/blog/) and [tutorials](https://github.com/juliasilge/deming2018)
-
-[Building Dashboards with `shinydashboard`](https://leanpub.com/c/shinydashboard)
-
 [Foundations of Inference](https://www.coursera.org/learn/inferential-statistics-intro?specialization=statistics)
-
-[Marketing Analytics in R: Choice Modeling](http://r-marketing.r-forge.r-project.org/) 
-
-* Please see Chapter 13
 
 [Introduction to Machine Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
 
@@ -70,22 +60,36 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Nonlinear Modeling in R with GAMs](https://github.com/noamross/gam-resources)
 
-[Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
+[Marketing Analytics in R: Choice Modeling](http://r-marketing.r-forge.r-project.org/) 
+
+* Please see Chapter 13
 
 [Working with Dates and Times in R](https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code)
-
-[Interactive Maps with `leaflet` in R](https://rstudio.github.io/leaflet/)  
-
-[Building Web Applications in R with Shiny](https://laderast.github.io/gradual_shiny/)
 
 [Hyperparameter Tuning in R](http://topepo.github.io/caret/model-training-and-tuning.html#model-training-and-parameter-tuning)
 * Also see the [`mlr` package docs](https://mlr.mlr-org.com/articles/tutorial/tune.html) and [the `h2o` package docs](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html)
 
 [Exploratory Data Analysis](https://classroom.udacity.com/courses/ud651)
 
+[Building Dashboards with `shinydashboard`](https://leanpub.com/c/shinydashboard)
+
+[Interactive Maps with `leaflet` in R](https://rstudio.github.io/leaflet/) 
+
+[Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
+
+[Building Web Applications in R with Shiny](https://laderast.github.io/gradual_shiny/)
+
+[Text Mining with R](https://www.tidytextmining.com/)
+
+* Also see the associated [blogs](https://juliasilge.com/blog/) and [tutorials](https://github.com/juliasilge/deming2018)
+
 [Sentiment Analysis in R](https://www.tidytextmining.com/)
 
 [Sentiment Analysis in R: The Tidy Way](https://www.tidytextmining.com/)
+
+[Analyzing Election and Polling Data in R](https://www.thecrosstab.com/project/r-politics-guide/)
+
+[Analyzing US Census Data in R](https://walkerke.github.io/tidycensus/articles/basic-usage.html)
 
 ### Python Courses
 
