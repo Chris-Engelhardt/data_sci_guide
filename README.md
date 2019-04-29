@@ -30,7 +30,19 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Working with the RStudio IDE (Part 2)](https://resources.rstudio.com/)
 
+[Cleaning Data in R](https://www.dataquest.io/course/r-data-cleaning)
+
+* Also see [here](https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science)
+
+[Importing & Cleaning Data in R: Case Studies](https://app.dataquest.io/course/r-data-cleaning)
+
+* See Guided Project: NYC Schools Perceptions
+
 [Working with Dates and Times in R](https://d-rug.github.io/blog/2014/using-times-and-dates-in-r-presentation-code)
+
+[Categorical Data in the Tidyverse](https://r4ds.had.co.nz/factors.html) 
+
+* Also see [here](https://forcats.tidyverse.org/)
 
 [Writing Functions in R](https://r4ds.had.co.nz/functions.html)
 
@@ -42,7 +54,19 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see the [`usethis`](https://www.tidyverse.org/articles/2019/04/usethis-1.5.0/) documentation
 
+[Foundations of Probability in R](https://www.coursera.org/learn/probability-intro?specialization=statistics)
+
+* See weeks 3 and 4
+
+* Also see [here](https://www.edx.org/course/r-probability-2)
+
+[Dimensionality Reduction in R](https://www.coursera.org/lecture/statistical-genomics/dimension-reduction-in-r-8-48-8AYGh)
+
+[Advanced Dimensionality Reduction in R](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2018/course/)
+
 [Foundations of Inference](https://www.coursera.org/learn/inferential-statistics-intro?specialization=statistics)
+
+[Fundamentals of Bayesian Data Analysis in R](https://www.coursera.org/learn/bayesian)
 
 [Introduction to Machine Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
 
@@ -60,6 +84,16 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Forecasting Using R](https://otexts.com/fpp2/)
 
+[Introduction to Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis)
+
+* Also see [here](https://otexts.com/fpp2/)
+
+[ARIMA Modeling with R](https://otexts.com/fpp2/arima-r.html)
+
+[Forecasting Product Demand in R](https://www.coursera.org/learn/practical-time-series-analysis)
+
+* Also see [here](https://otexts.com/fpp2/)
+
 [Nonlinear Modeling in R with GAMs](https://github.com/noamross/gam-resources)
 
 [Marketing Analytics in R: Choice Modeling](http://r-marketing.r-forge.r-project.org/) 
@@ -71,13 +105,29 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Exploratory Data Analysis](https://classroom.udacity.com/courses/ud651)
 
+[Exploratory Data Analysis in R: Case Study](https://www.coursera.org/learn/exploratory-data-analysis?specialization=jhu-data-science)
+
+* Please see week 4 
+
+[Data Visualization with ggplot2 (Part 1)](https://www.dataquest.io/course/r-data-viz/)
+
+[Data Visualization with ggplot2 (Part 2)](https://r4ds.had.co.nz/data-visualisation.html)
+
 [Building Dashboards with `shinydashboard`](https://leanpub.com/c/shinydashboard)
+
+[Building Dashboards with `flexdashboard`](https://rmarkdown.rstudio.com/flexdashboard/)
+
+[Interactive Data Visualization with `rbokeh`](https://hafen.github.io/rbokeh/)
 
 [Interactive Maps with `leaflet` in R](https://rstudio.github.io/leaflet/) 
 
 [Working with Geospatial Data in R](https://geocompr.robinlovelace.net)  
 
 [Building Web Applications in R with Shiny](https://laderast.github.io/gradual_shiny/)
+
+[Building Web Applications in R with Shiny: Case Studies](https://shiny.rstudio.com/gallery)
+
+[Introduction to Text Analysis in R](https://www.tidytextmining.com/)
 
 [Text Mining with R](https://www.tidytextmining.com/)
 
@@ -112,6 +162,12 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 [Intro to SQL for Data Science](https://www.khanacademy.org/computing/computer-programming/sql)
 
 * Also see [here](https://www.dataquest.io/course/sql-fundamentals/) (**requires subscription**)
+
+[Intermediate SQL](https://mode.com/sql-tutorial/)
+
+* Please see the Intermediate SQL section
+
+[Intermediate SQL Server](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
 [Joining Data in SQL](https://librarycarpentry.org/lc-sql/)
 
