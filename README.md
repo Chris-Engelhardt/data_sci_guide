@@ -68,6 +68,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Fundamentals of Bayesian Data Analysis in R](https://www.coursera.org/learn/bayesian)
 
+[Structural Equation Modeling with lavaan in R](http://statstools.com/learn/structural-equation-modeling/)
+
 [Introduction to Machine Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
 
 [Unsupervised Learning in R](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
