@@ -151,15 +151,25 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see [here](http://swcarpentry.github.io/python-novice-inflammation/)
 
+[Python for R Users](https://github.com/webartifex/intro-to-python)
+
+[Python for MATLAB Users](https://github.com/webartifex/intro-to-python)
+
 [Introduction to Data Science in Python](https://www.dataquest.io/course/python-for-data-science-fundamentals/)
 
 [Intermediate Python for Data Science](https://classroom.udacity.com/courses/ud359)
+
+[Object-Oriented Programming in Python](https://github.com/webartifex/intro-to-python)
+
+[Writing Efficient Python Code](https://github.com/webartifex/intro-to-python)
 
 [Analyzing Police Activity with pandas](https://www.dataschool.io/best-practices-with-pandas/)
 
 [Interactive Data Visualization with Bokeh](https://mybinder.org/v2/gh/bokeh/bokeh-notebooks/master?filepath=tutorial%2F00%20-%20Introduction%20and%20Setup.ipynb)
 
 [Advanced NLP with spaCy](https://course.spacy.io/)
+
+[Intro to Python for Finance](https://github.com/webartifex/intro-to-python)
 
 ### SQL Courses
 
