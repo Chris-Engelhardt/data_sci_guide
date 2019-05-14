@@ -143,6 +143,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Analyzing US Census Data in R](https://walkerke.github.io/tidycensus/articles/basic-usage.html)
 
+[Single-Cell RNA-Seq Workflows in R](https://bioconductor.org/packages/release/workflows/html/simpleSingleCell.html)
+
 ### Python Courses
 
 [Introduction to Python](https://classroom.udacity.com/courses/ud170)
