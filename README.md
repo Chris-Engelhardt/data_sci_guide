@@ -66,6 +66,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Foundations of Inference](https://www.coursera.org/learn/inferential-statistics-intro?specialization=statistics)
 
+[Correlation and Regression](https://learningstatisticswithr.com/book/regression.html)
+
 [Fundamentals of Bayesian Data Analysis in R](https://www.coursera.org/learn/bayesian)
 
 [Structural Equation Modeling with lavaan in R](http://statstools.com/learn/structural-equation-modeling/)
