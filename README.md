@@ -48,6 +48,12 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Next, [learn about iteration](https://r4ds.had.co.nz/iteration.html)
 
+[Data Analysis in R, the data.table Way](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
+
+* See [here](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reference-semantics.html) for updating
+
+* See [here](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-secondary-indices-and-auto-indexing.html) for indexing
+
 [Building Processing Pipelines in `data.table`](https://github.com/jameslamb/teaching/tree/master/datacamp_audition)
 
 [Developing R Packages](https://kbroman.org/pkg_primer/)
