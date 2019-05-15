@@ -48,6 +48,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Next, [learn about iteration](https://r4ds.had.co.nz/iteration.html)
 
+[Data Manipulation in R with dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
+
 [Data Analysis in R, the data.table Way](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html)
 
 * See [here](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-reference-semantics.html) for updating
