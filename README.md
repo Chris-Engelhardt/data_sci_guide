@@ -68,6 +68,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see [here](https://www.edx.org/course/r-probability-2)
 
+[Dealing With Missing Data in R](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html)
+
 [Dimensionality Reduction in R](https://www.coursera.org/lecture/statistical-genomics/dimension-reduction-in-r-8-48-8AYGh)
 
 [Advanced Dimensionality Reduction in R](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2018/course/)
