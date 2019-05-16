@@ -121,6 +121,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Please see week 4 
 
+[Visualization Best Practices in R](https://socviz.co/)
+
 [Data Visualization with ggplot2 (Part 1)](https://www.dataquest.io/course/r-data-viz/)
 
 [Data Visualization with ggplot2 (Part 2)](https://r4ds.had.co.nz/data-visualisation.html)
