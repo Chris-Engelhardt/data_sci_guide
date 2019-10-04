@@ -82,9 +82,9 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Structural Equation Modeling with lavaan in R](http://statstools.com/learn/structural-equation-modeling/)
 
-[Supervised Machine Learning: Case Studies in R](https://supervised-ml-course.netlify.com/)
-
 [Introduction to Machine Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
+
+[Supervised Machine Learning: Case Studies in R](https://supervised-ml-course.netlify.com/)
 
 [Unsupervised Learning in R](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/course/)
 
