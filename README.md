@@ -225,4 +225,4 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 ## Contributing
 
-> Ways to contribute forthcoming. 
+> Please feel free to submit a pull request. The full list of DC courses can be found [here](https://t.co/gahfLYYY2l?amp=1)
