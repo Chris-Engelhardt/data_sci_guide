@@ -24,6 +24,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 * Also see [here](http://swcarpentry.github.io/r-novice-inflammation/)
 
+[Ready for R](https://ready4r.netlify.app)
+
 [Intermediate R](https://www.dataquest.io/course/intermediate-r-programming/)
 
 [Working with the RStudio IDE (Part 1)](https://resources.rstudio.com/)
