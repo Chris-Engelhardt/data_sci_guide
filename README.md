@@ -175,6 +175,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Introduction to Data Science in Python](https://www.dataquest.io/course/python-for-data-science-fundamentals/)
 
+[Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/)
+
 [Intermediate Python for Data Science](https://classroom.udacity.com/courses/ud359)
 
 [Object-Oriented Programming in Python](https://github.com/webartifex/intro-to-python)
