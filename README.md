@@ -163,6 +163,8 @@ Many instructors have admirably [advocated against taking their own DataCamp cou
 
 [Single-Cell RNA-Seq Workflows in R](https://bioconductor.org/packages/release/workflows/html/simpleSingleCell.html)
 
+[Data science for the medical and biomedical sciences (ds4biomed)](https://ds4biomed.tech/)
+
 ### Python Courses
 
 [Introduction to Python](https://classroom.udacity.com/courses/ud170)
